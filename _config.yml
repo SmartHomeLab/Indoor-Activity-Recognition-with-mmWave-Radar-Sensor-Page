@@ -3,7 +3,6 @@ email: wm@mengw.io
 description: Indoor Activity Recognition with mmWave Radar Sensor
 url: https://something
 github_username: SmartHomeLab
-theme: minima
 repository: SmartHomeLab/something
 markdown: kramdown
 kramdown:
