@@ -16,6 +16,17 @@
     margin-left: 16px;
 }
 
+.author-names {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.author-name {
+    flex: 1;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 .overview {
     display: flex;
     align-items: center;

@@ -3,7 +3,19 @@ title: Indoor Activity Recognition with mmWave Radar Sensor
 layout: home
 ---
 
-# Overview
+# Indoor Activity Recognition with mmWave Radar Sensor
+
+<div class="author-names">
+<a class="author-name">First Last</a>
+<a class="author-name">First Last</a>
+<a class="author-name">First Last</a>
+<a class="author-name">First Last</a>
+<a class="author-name">First Last</a>
+</div>
+
+Iowa State University
+
+## Overview
 
 <div class="overview">
 <div>
@@ -16,10 +28,10 @@ Nowadays, world population aging, which requires heavy investment of time and ma
 </div>
 </div>
 
-# Video
+## Video
 
 123
 
-# Paper
+## Paper
 
-# Talk
+## Talk
