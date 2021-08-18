@@ -112,10 +112,10 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-gist (~> 1.5)
+  jekyll-gist
   jekyll-github-metadata
-  jekyll-seo-tag (~> 2.7)
-  jekyll-sitemap (~> 1.4)
+  jekyll-seo-tag
+  jekyll-sitemap
   minima
   tzinfo
   tzinfo-data
