@@ -15,3 +15,14 @@
     margin-bottom: 0;
     margin-left: 16px;
 }
+
+.overview {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.overview-image {
+    flex: 1;
+    min-width: 40%;
+}
