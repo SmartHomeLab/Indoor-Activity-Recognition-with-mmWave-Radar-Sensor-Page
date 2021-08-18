@@ -5,19 +5,25 @@ layout: home
 
 # Indoor Activity Recognition with mmWave Radar Sensor
 
-<div class="author-names">
-<a class="author-name">First Last</a>
-<a class="author-name">First Last</a>
-<a class="author-name">First Last</a>
-<a class="author-name">First Last</a>
-<a class="author-name">First Last</a>
-</div>
-
-<div class="author-names">
-<div>
 <a class="author-name" href="https://iastate.edu">Iowa State University</a>
-</div>
-</div>
+
+### Student Participants
+
+- [Hongyi Bian](https://google.com)
+- [Mingdian Liu](https://google.com)
+
+<!-- <div class="author-names">
+<a class="author-name">Hongyi Bian</a>
+<a class="author-name">Mingdian Liu</a>
+</div> -->
+
+### Advisor
+
+- [Carl K. Chang](https://google.com)
+
+<!-- <div class="author-names">
+<a class="author-name">Carl K. Chang</a>
+</div> -->
 
 ## Overview
 

@@ -1,3 +1,15 @@
+h2,
+h3 {
+    scroll-margin-top: 68px;
+}
+
+.site-header {
+    background-color: white;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+
 .header-wrapper {
     display: flex;
 }
