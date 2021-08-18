@@ -13,7 +13,11 @@ layout: home
 <a class="author-name">First Last</a>
 </div>
 
-Iowa State University
+<div class="author-names">
+<div>
+<a class="author-name" href="https://iastate.edu">Iowa State University</a>
+</div>
+</div>
 
 ## Overview
 
@@ -30,8 +34,14 @@ Nowadays, world population aging, which requires heavy investment of time and ma
 
 ## Video
 
-123
+<div class="video">
+<video width="640" controls>
+  <source src="/assets/video/demo.mp4" type="video/mp4">
+</video>
+</div>
 
 ## Paper
 
 ## Talk
+
+## More

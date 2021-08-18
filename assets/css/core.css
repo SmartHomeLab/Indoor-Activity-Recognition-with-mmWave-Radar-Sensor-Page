@@ -18,6 +18,8 @@
 
 .author-names {
     display: flex;
+    align-items: center;
+    justify-content: center;
     margin-bottom: 16px;
 }
 
@@ -36,4 +38,17 @@
 .overview-image {
     flex: 1;
     min-width: 40%;
+}
+
+.video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.site-footer {
+    padding-top: 16px;
+    padding-bottom: 0px;
 }
