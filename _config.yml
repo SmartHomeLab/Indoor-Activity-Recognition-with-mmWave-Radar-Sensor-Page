@@ -1,0 +1,22 @@
+title: something
+email: wm@mengw.io
+description: Index
+url: https://something
+github_username: WMXPY
+theme: minima
+repository: SmartHomeLab/something
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+author:
+  name: SmartHomeLab
+  email: wm@mengw.io
+plugins:
+  - jekyll-github-metadata
+exclude:
+  - .jekyll-cache/
+  - docs/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
