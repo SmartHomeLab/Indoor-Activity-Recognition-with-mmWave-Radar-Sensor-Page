@@ -9,21 +9,18 @@ layout: home
 
 ### Student Participants
 
-- [Hongyi Bian](https://google.com)
-- [Mingdian Liu](https://google.com)
-
-<!-- <div class="author-names">
-<a class="author-name">Hongyi Bian</a>
-<a class="author-name">Mingdian Liu</a>
-</div> -->
+<div class="author-names">
+<a class="author-name" href="mailto:hobian@iastate.edu">Hongyi Bian</a>
+<a class="author-name" href="mailto:mingdian@iastate.edu">Mingdian Liu</a>
+<a class="author-name">Jieyun Hu</a>
+<a class="author-name" href="https://mengw.io">Meng Wang</a>
+</div>
 
 ### Advisor
 
-- [Carl K. Chang](https://google.com)
-
-<!-- <div class="author-names">
-<a class="author-name">Carl K. Chang</a>
-</div> -->
+<div class="author-names">
+<a class="author-name" href="https://www.cs.iastate.edu/chang">Carl K. Chang</a>
+</div>
 
 ## Overview
 
@@ -47,7 +44,3 @@ Nowadays, world population aging, which requires heavy investment of time and ma
 </div>
 
 ## Paper
-
-## Talk
-
-## More

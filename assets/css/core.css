@@ -3,6 +3,10 @@ h3 {
     scroll-margin-top: 68px;
 }
 
+h3 {
+    text-align: center;
+}
+
 .site-header {
     background-color: white;
     position: sticky;
@@ -33,12 +37,14 @@ h3 {
     align-items: center;
     justify-content: center;
     margin-bottom: 16px;
+    text-align: center;
 }
 
 .author-name {
     flex: 1;
     font-size: 18px;
     font-weight: bold;
+    text-align: center;
 }
 
 .overview {
