@@ -46,6 +46,6 @@ Nowadays, world population aging, which requires heavy investment of time and ma
 ## Paper
 
 [Indoor Activity Recognition with mmWave Radar
-Sensor](https://google.com)  
+Sensor](https://github.com/SmartHomeLab/Indoor-Activity-Recognition-with-mmWave-Radar-Sensor-Static/raw/main/Indoor-Activity-Recognition-with-mmWave-Radar-Sensor.pdf)  
 Mingdian Liu, Ge Luo, Shuhan Yang  
-[PDF](https://google.com)  
+[PDF](https://github.com/SmartHomeLab/Indoor-Activity-Recognition-with-mmWave-Radar-Sensor-Static/raw/main/Indoor-Activity-Recognition-with-mmWave-Radar-Sensor.pdf)  
