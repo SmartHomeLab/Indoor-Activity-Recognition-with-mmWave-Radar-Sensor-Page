@@ -31,7 +31,7 @@ Nowadays, world population aging, which requires heavy investment of time and ma
 </p>
 </div>
 <div class="overview-image">
-<img src="/assets/image/figure-2.png" alt="figure-2">
+<img src="{{ "assets/image/figure-2.png" | relative_url }}" alt="figure-2">
 </div>
 </div>
 
@@ -39,7 +39,7 @@ Nowadays, world population aging, which requires heavy investment of time and ma
 
 <div class="video">
 <video width="640" controls>
-  <source src="/assets/video/demo.mp4" type="video/mp4">
+  <source src="{{ "assets/video/demo.mp4" | relative_url }}" type="video/mp4">
 </video>
 </div>
 
