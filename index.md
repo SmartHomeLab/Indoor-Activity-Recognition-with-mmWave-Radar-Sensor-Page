@@ -12,7 +12,7 @@ layout: home
 <div class="author-names">
 <a class="author-name" href="mailto:hobian@iastate.edu">Hongyi Bian</a>
 <a class="author-name" href="mailto:mingdian@iastate.edu">Mingdian Liu</a>
-<a class="author-name">Jieyun Hu</a>
+<a class="author-name" href="jenhu@iastate.edu">Jieyun Hu</a>
 <a class="author-name" href="https://mengw.io">Meng Wang</a>
 </div>
 
@@ -39,7 +39,7 @@ Nowadays, world population aging, which requires heavy investment of time and ma
 
 <div class="video">
 <video width="640" controls>
-  <source src="{{ "assets/video/demo.mp4" | relative_url }}" type="video/mp4">
+<source src="{{ "assets/video/demo.mp4" | relative_url }}" type="video/mp4">
 </video>
 </div>
 
