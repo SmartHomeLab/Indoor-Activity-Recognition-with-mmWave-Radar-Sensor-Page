@@ -31,7 +31,7 @@ Nowadays, world population aging, which requires heavy investment of time and ma
 </p>
 </div>
 <div class="overview-image">
-<img src="{{ "assets/image/figure-2.png" | relative_url }}" alt="figure-2">
+<img src="{{ "assets/image/figure.drawio.svg" | relative_url }}" alt="figure">
 </div>
 </div>
 
