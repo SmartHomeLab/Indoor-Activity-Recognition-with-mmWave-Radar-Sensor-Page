@@ -5,7 +5,9 @@ layout: home
 
 # Indoor Activity Recognition with mmWave Radar Sensor
 
+<div class="author-names">
 <a class="author-name" href="https://iastate.edu">Iowa State University</a>
+</div>
 
 ### Student Participants
 
