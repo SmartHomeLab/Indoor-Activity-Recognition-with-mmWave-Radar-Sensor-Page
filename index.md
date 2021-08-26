@@ -48,7 +48,7 @@ Nowadays, world population is fast aging, which requires heavy investment of tim
 ## Paper
 
 [Recognizing Activities of Daily Living to Improve Well-Being](https://ieeexplore.ieee.org/document/7945203)  
-Yunfei Feng, Carl K. Chang, Hua Ming
+Yunfei Feng, Carl K. Chang, Hua Ming  
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7945203)  
 
 [Indoor Activity Recognition with mmWave Radar
