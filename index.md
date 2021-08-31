@@ -13,7 +13,7 @@ layout: home
 
 <div class="author-names">
 <a class="author-name" href="mailto:mingdian@iastate.edu">Mingdian Liu</a>
-<a class="author-name" href="jenhu@iastate.edu">Jieyun Hu</a>
+<a class="author-name" href="mailto:jenhu@iastate.edu">Jieyun Hu</a>
 <a class="author-name" href="mailto:hobian@iastate.edu">Hongyi Bian</a>
 <a class="author-name" href="https://mengw.io">Meng Wang</a>
 </div>
